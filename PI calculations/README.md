@@ -5,5 +5,5 @@ picrunch.py : Original script from the article
 
 picrunch-mt.py : Adapted script that runs using 2 processes to speed-up the completion
 
-pi-10million-online.txt : Text file with 10 million decimals of PI used for validation [link](https://introcs.cs.princeton.edu/java/data/pi-10million.txt) [found on WikiPedia](https://en.wikipedia.org/wiki/Pi)
+pi-10million-online.txt : Text file with 10 million decimals of PI used for validation - [link](https://introcs.cs.princeton.edu/java/data/pi-10million.txt) - [found on WikiPedia](https://en.wikipedia.org/wiki/Pi)
 
